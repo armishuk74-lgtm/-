@@ -1,0 +1,6 @@
+{
+  "name": "আমাদের উপজেলা - Amader Upazila",
+  "description": "ময়মনসিংহ ও নেত্রকোনা জেলার সকল উপজেলাভিত্তিক কেনাবেচা, চাকরি, রক্তদাতা, ডাক্তার, স্থানীয় ব্যবসা ও জরুরি সেবার সুপার প্ল্যাটফর্ম।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
